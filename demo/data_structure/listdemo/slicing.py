@@ -1,0 +1,12 @@
+li=[10,20,30,40,50,60,70,80,90,100]
+print(li[1:6])
+print(li[3:9])
+print(li[1:8:2])
+print(li[1:8:3])
+print(li[8:1:-1])
+print(li[:9])
+print(li[4:20])
+print(li[4:])
+print(li[::])
+print(li[:])
+print(li[::-1])
